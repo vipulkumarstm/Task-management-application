@@ -28,4 +28,4 @@ To run the project locally, follow these steps:
 3. Install dependencies: "npm install"
 4. Start the development server: "npm start"
 5. then start command " npm run dev"
-6. Open your browser and visit my website : "http://localhost:3000"
+6. Open your browser and visit my website : "http://localhost:3000"/"http://localhost:5173/"
